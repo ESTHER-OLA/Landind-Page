@@ -32,6 +32,6 @@ The landing page is designed to be responsive for all screen sizes. This was ach
 
 - Esther-Ola
 
-## Links
+## Demo
 
-You can explore the site here
+Check out the live demo [here](https://landind-page-inky.vercel.app/).
